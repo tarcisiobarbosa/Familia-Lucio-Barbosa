@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+img{
+    border-radius: 300px;
+}
+h1{
+    color: blueviolet;
+}
+h2:hover{
+color: blueviolet;
+}
+img:hover{
+    width: 1400px;
+}
